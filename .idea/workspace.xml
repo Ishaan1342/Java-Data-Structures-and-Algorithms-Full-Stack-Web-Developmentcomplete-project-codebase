@@ -4,114 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/company/Lecture15/Client.java" line="12" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f591fe1b-9706-494c-a78d-400a4df740ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/META-INF/Assignment2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture10/Lexopermute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture11/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture11/Nqueens.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture11/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture14/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture14/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/CircularQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/Engine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/MYexception.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/OptimizedQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/PetrolEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/QueueClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture15/StackClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/ArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/ArrayListClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/DynamicQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/DynamicStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/JavaTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/LinkedClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture16and17and18/TeachingAssistant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture19Trees/GenericTreeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture19Trees/GenericTrees$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture19Trees/GenericTrees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture20/BInaryTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture20/BInaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture20/BInaryTreeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture21/BInarySearchTreeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture21/BinarySearchTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture21/BinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture21/GenericBinarySearchTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture21/GenericBinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture21/GenericBinarySearchTreeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/HashMapeg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/Heap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/HeapClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/MapClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/MapusingArray$Entity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/MapusingArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/MapusingArraylist$Entity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/MapusingArraylist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/MapusingList$Entity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture22/MapusingList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture24/AdjacencyListGraph$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture24/AdjacencyListGraph$Vertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture24/AdjacencyListGraph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture24/GraphClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture25/AdjacencyMapGraph$Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture25/AdjacencyMapGraph$Vertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture25/AdjacencyMapGraph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture25/GraphClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture26/Dicecount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture26/EditDistance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture26/EggDrop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture26/Fibo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture26/LongestCommonSub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture26/LongestPallinsquence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture26/MazePath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture4patternsetc/Butterfly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture4patternsetc/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture4patternsetc/RemainingDiamond.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture4patternsetc/Swap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture4patternsetc/function.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/AnytoAny.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/AnytoDeci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/Converter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/DeciToAny.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/InverseOfNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/LInearSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/MaxArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/MaxArrayIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/Temperature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/Utility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture5/arrayeg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture6/ArrayListeg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture6/AssignmentFunctions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture6/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture6/LinearSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture6/SelectionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture6/TwoDegarray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture6/insertion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture7/SpirialArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture7/StringBuilde.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture7/Stringbuilder2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture7/Stringseg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture8/ArraySortedOrNotUsingRecusion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture8/FactorialRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture8/FibonacciRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture8/Recursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture8/RecursionEg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture9/AsciiSubsequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture9/BubbleSortRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture9/DiceRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture9/MazeRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture9/PAttern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture9/Permutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/com/company/Lecture9/subsequence.class" afterDir="false" />
-    </list>
+    <list default="true" id="f591fe1b-9706-494c-a78d-400a4df740ad" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Lecture5/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -510,11 +403,19 @@
       <option name="project" value="LOCAL" />
       <updated>1575309521803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit all files sorted into lectures//">
+      <created>1575309846136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575309846136</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Repositories" weight="0.32955465" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973545" weight="0.45425102" />
@@ -532,9 +433,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49878544" weight="0.3285968" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50040483" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50121456" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3232682" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.24939272" />
@@ -1027,8 +928,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Lecture5/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
